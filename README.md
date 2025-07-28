@@ -11,10 +11,10 @@
 ## About Me
 
 - 🎓 **Senior year student** at National Institute of Technology Jamshedpur, India
-- 🔬 **Currently working on** Machine Learning models and data analysis projects
+- 🔬 **Currently working on** advanced Machine Learning models and data analysis projects
 - 💼 **Creator of** [MatData Pro](https://github.com/shruti23-ui/MatData_Pro) - A comprehensive data analysis platform
 - 📊 **Specialized in** Data Science, Machine Learning, and Business Intelligence
-- 🌱 **Learning** Advanced ML algorithms, Deep Learning, Computer Vision, Agentic AI and MLOps
+- 🌱 **Learning** Advanced ML algorithms, Deep Learning, and MLOps
 
 ## Technical Skills
 
@@ -80,15 +80,13 @@
 - High accuracy fake news detection system
 - Technologies: `Python` `NLP` `Machine Learning` `Scikit-learn`
 
-## GitHub Statistics
+## Project Portfolio
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shruti23-ui&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti23-ui&layout=compact&langs_count=8&theme=github_dark"/>
-</div>
+  
+[![MatData Pro](https://github-readme-stats.vercel.app/api/pin/?username=shruti23-ui&repo=MatData_Pro&theme=github_dark)](https://github.com/shruti23-ui/MatData_Pro)
+[![Blinkit Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=shruti23-ui&repo=blinkit-powerbi-dashboard&theme=github_dark)](https://github.com/shruti23-ui/blinkit-powerbi-dashboard)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruti23-ui&theme=github-dark-blue" alt="GitHub Streak" />
 </div>
 
 ## Current Focus
@@ -107,13 +105,13 @@
 ## Connect With Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/shruti-priya3112/">
+  <a href="https://linkedin.com/in/shruti-priya-5b3978243">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/shruti23-ui">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:priyashruti3112@gmail.com">
+  <a href="mailto:shrutipriya@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
